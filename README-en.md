@@ -1,6 +1,4 @@
-### Q&A
-
----
+## Q&A
 
 [Chinese-Simplified](https://github.com/gzhuiotig/Q_A.git)
 
