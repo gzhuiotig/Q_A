@@ -11,7 +11,7 @@
 #### Instructions
 
 1. Check whether there is any problem you raised in the Issue of the closure of this repository. If so, step 4; if not, step 2
-2. Issue issue in this repository
+2. Issue [issue](https://github.com/gzhuiotig/Q_A/issues) in this repository
 3. Wait for answers from yourself or others
 4. To solve
 
