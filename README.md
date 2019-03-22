@@ -1,6 +1,6 @@
 ## 疑难解答
 
-[English](https://github.com/gzhuiotig/Q_A/README-en.md)
+[English](https://github.com/gzhuiotig/Q_A/blob/master/README-en.md)
 
 #### 仓库说明
 
